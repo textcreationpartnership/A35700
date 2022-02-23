@@ -1,0 +1,507 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Denus to the lyon of England and tribe of Judah and to the covenant, law, and testimony : also his calling, authority, consent and office : together with the oracles of God and his requiem.</title>
+            <author>Denus.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1651</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 43 KB of XML-encoded text transcribed from 16 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A35700</idno>
+            <idno type="STC">Wing D1068B</idno>
+            <idno type="STC">ESTC R26691</idno>
+            <idno type="EEBO-CITATION">09523499</idno>
+            <idno type="OCLC">ocm 09523499</idno>
+            <idno type="VID">43464</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A35700)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 43464)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1329:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Denus to the lyon of England and tribe of Judah and to the covenant, law, and testimony : also his calling, authority, consent and office : together with the oracles of God and his requiem.</title>
+                  <author>Denus.</author>
+               </titleStmt>
+               <extent>30 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for H. Hasilwood,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1651.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible --  Prophecies.</term>
+               <term>Church renewal.</term>
+               <term>Apocalyptic literature.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-01</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2014-01</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:43464:1"/>
+            <pb facs="tcp:43464:1" rendition="simple:additions"/>
+            <p>DENUS TO THE LYON of ENGLAND, <hi>AND</hi> TRIBE of JUDAH; And to the Covenant, Law, and Teſtimo<g ref="char:EOLhyphen"/>ny: Alſo, his Calling, Authority, Con<g ref="char:EOLhyphen"/>ſent, and Office. Together, with the Oracles of God, and his Requiem.</p>
+            <figure/>
+            <p>London, printed for <hi>H. Haſilwood,</hi> 1651.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:43464:2"/>
+            <pb n="3" facs="tcp:43464:2"/>
+            <head>DENUS TO THE LYON of ENGLAND, <hi>AND</hi> TRIBE of JUDAH, &amp;c.</head>
+            <epigraph>
+               <bibl>
+                  <hi>MAL. 3. VERS. 1.</hi>
+               </bibl>
+               <q>Behold I ſend my Meſſenger, and he ſhall prepare my way before mee.</q>
+            </epigraph>
+            <p>NOw to declare this Parable or dark Sentence from above, God hath ever had one fore-going meſſenger or other, to declare from him the things he hath and will ſhortly effect; For the time paſt, thoſe 2 Prophets <hi>Elijah</hi> &amp; <hi>Iſaiah</hi> did ſee afar off God manifeſt in the fleſh, &amp; propheſied &amp; decla<g ref="char:EOLhyphen"/>red of a Savior to come; &amp; likewiſe <hi>John</hi> in the Goſpel our Saviour calleth him his meſſenger: Now there is one more to come which is the meſſenger of the Covenant; <hi>In whom ye delight, he ſhall come,</hi> ſaith the Lord of Hoſts; <hi>and he is beau<g ref="char:EOLhyphen"/>tiful that bringeth glad tydings oſ ſalvation.</hi> Now in this, Chriſt appeared as the meſſenger of God in man, that was manifeſt in fleſh; and we are not to expect him any more as
+<pb n="4" facs="tcp:43464:3"/> a meſſenger or Meſſia; for that expectation, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> to this pre<g ref="char:EOLhyphen"/>ſent day, doth over-vail our brethren the Jewes; the Go<g ref="char:EOLhyphen"/>ſpel declared of <hi>Moſes,</hi> who lifted up the brazen Altar in the Wilderneſs; ſo we muſt bear up his Scepter, and hold it forth to all: and this muſt firſt be done by a called meſ<g ref="char:EOLhyphen"/>ſenger; <hi>For, behold, I ſend my meſſenger before, he ſhall prepare the way before me.</hi> The Lord ſaith, <hi>John was a burning and ſh<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ning light; but I have a greater Witneſs then that of</hi> John.</p>
+            <p>Now this laſt meſſenger, his Calling and Office, is to ſtand up for all Chriſt his Royalties, Dignities, Glories, Majeſties, Worſhips, Honours, Graces, Excellencies, Privi<g ref="char:EOLhyphen"/>ledges, Powers, Regal Rights, and Prerogatives; and to proclaim him King upon his Throne.</p>
+            <p>Secondly, To vindicate his power.</p>
+            <p>Thirdly, To ſet up his pure Diſciplined Church.</p>
+            <p>Fourthly, To ſhun no fleſh for favour or affection, but to come near them in judgment.</p>
+            <p>Fifthly, He is to make known all abominations that ma<g ref="char:EOLhyphen"/>keth deſolation.</p>
+            <p>Sixthly, He muſt give the Beaſt her deadly wound.</p>
+            <p>Seventhly, He muſt make known the feaſt of Taberna<g ref="char:EOLhyphen"/>cles for a tie of peace, community, and reſt to come.</p>
+            <p>Eighthly, He muſt be a Leader to Jew and Gentile, and ſhew forth the true way.</p>
+            <p>Ninthly, He muſt diſcover the man of ſin, and his falling away, and myſtery of iniquity.</p>
+            <p>Tenthly, He is to declare a viſible return of the Jewes cut of their captivity.</p>
+            <p>Eleventhly, He muſt ſhew forth, profeſſe, and declare the viſible Kingdom of Chriſt, which ſhall be an Ocean of peo<g ref="char:EOLhyphen"/>ple, Nations, and Languages, called <hi>the Remnant of all the Tribes.</hi>
+            </p>
+            <p>Twelfthly, This meſſenger is to make known the day of the Lord, and his acceptable year; and that i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> now in
+<pb n="5" facs="tcp:43464:3"/> this year declared, by revelation from Him, to his ſervant: That this is the Year One thouſand ſix hundred and fifty, which hath ſo appeared to his meſſenger, by a power re<g ref="char:EOLhyphen"/>ceived from him, who is God, and will ſuddainly come to his Temple, and will recompenſe all the wrongs done to his people. <hi>Behold, he ſhall come, ſaith the Lord of Hoſts; but who may abide the day of his coming.</hi>
+            </p>
+            <p>Firſt, He cometh with his Ordinances of Truth, to let them know, <hi>Judgment muſt firſt begin at his own houſe.</hi>
+            </p>
+            <p>Secondly, He will ſuddenly come to his Temple; he is yet coming, and who ſhall ſtand when he appeareth by a more higher ſhining light: <hi>Behold I ſend my meſsenger, and he ſhall gather the people,</hi> Gen. 49.8. <hi>Judah thou art he whom thy brethren ſhall praiſe; thy hand ſhall be in the neck of thine Ene<g ref="char:EOLhyphen"/>mies, thy Fathers children ſhall bow down before thee;</hi> Judah <hi>thou art as a Lyon from the prey, and ſhalt ſtand up, for the Scepter ſhall not depart from</hi> Judah, <hi>nor a Law giver from betwixt his feet, untill</hi> Shiloah <hi>come, and unto him ſhall the gathering of the people be.</hi> So that we find this Tribe of the <hi>Lyon of Judah,</hi> ſhall gather in all the loſt Tribes: That <hi>Judah</hi> and the whole <hi>Iſrael</hi> of God may be one, and one King, one people. Fur<g ref="char:EOLhyphen"/>ther we find in <hi>Zach.</hi> 12. <hi>In the laſt dayes there ſhall be a great mourning of the Tribes for the reſtoring of</hi> Judah; <hi>and their mourning is the greater, being apart from their former enjoy<g ref="char:EOLhyphen"/>ments, as they were Tribes, according to their Fathers inheritance:</hi> but ſaith the Lord, Jer. 31.16. <hi>Refrain thy voyce from weeping, and thine eyes from tears, for thy works ſhall be rewarded,</hi> ſaith the Lord; <hi>for there is hope in thine, and that thy Children ſhall come again to their own borders: Behold, he cometh that ſhall re<g ref="char:EOLhyphen"/>deem</hi> Iſrael; <hi>he cometh in ſpiritual brightneſs, gather your ſelves together ye ſcattered Tribes, for now is the day of his appearing;</hi>
+               <pb n="6" facs="tcp:43464:4"/> for he will now certainly burn up the earth by a ſpirituall burning, ye t<gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of <hi>Iſrael</hi> that have given your Power <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o the Beaſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, come out of her, and ſee the brightneſs of his coming, and all ye Tribes repair to your Tribe of the Ly<g ref="char:EOLhyphen"/>on of <hi>Judah,</hi> for ye muſt all griſt into it; All the ſticks muſt become one ſtick in his hand, <hi>Ezek.</hi> 37.16. There the Word ſaith; <hi>Moreover, thou Son of Man, take unto thy ſelf one ſtick, and write upon it for</hi> Judah, <hi>and for the Children of</hi> Iſrael <hi>his compa<g ref="char:EOLhyphen"/>nions then take another ſtick, and write upon it for</hi> Joſeph, <hi>and all the houſe of</hi> Iſrael <hi>his companions.</hi> Now when all theſe Tribes are companions of brother-hood, are united to the Son of Man, being one in his hand, then he ſhall go forth with them, as a mighty Lyon of their Tribe, to rend, and to tear in pieces all the Antichriſtian powers, and every pow<g ref="char:EOLhyphen"/>er that exalteth it ſelf againſt God. Now this Tribe ſhall be an invincible Tribe, being of one heart; and God ſaith, <hi>I will make them one Nation in the Land, and will take the children of</hi> Iſrael <hi>from the</hi> Heathen, <hi>whither her they be gone; and I will bring them to their own Land.</hi> This God will do by a ſpiritual power. <hi>Behold, he cometh, gather your ſelves in Troopes, ye holy ones of the Lord, for <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Tribe</hi> Judah, <hi>and he ſhall gather the pe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ple, and h<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> is the Meſsenger of the Covenant <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> whom he de<g ref="char:EOLhyphen"/>lights.</hi>
+            </p>
+            <p>Now this is the promiſe unto all the godly; The Son of Righteouſneſs ſhall ariſe unto them with healing in his Wings; but unto the wicked behold he cometh, he cometh in fury and burning; he cometh in brightneſs to diſcover all the dark corners of the earth, of ſin, and all ſubtilty, and will try the ſpirits of men; for, behold, his power ſhall burn as an Oven, and the wicked ſhall be burnt up, <hi>for I will come neer you to judgment, and will <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ſwift witneſs againſt all ſin and <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>orcer<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, that no man may ſay I am free from ſhaking;</hi> for he will ſhake Heaven and Earth ſo terribly, that his very Elect ſhall tremble, and the conſtellations of all things ſhall
+<pb n="7" facs="tcp:43464:4"/> fail before him: he will ex<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>gment upon all to con<g ref="char:EOLhyphen"/>vince all the ungodly of their unrighteouſneſs. And <hi>Peter</hi> ſaith; <hi>The day of the Lord will come, when the Heavens ſhall paſſe away, and the Element ſhall melt with fervent heat, and the Earth, <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> up with a fervent heat:</hi> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> who ſhall abide his coming, o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> who ſhall ſtand in his ſight, when this great God ſhall revenge himſelf upon his adverſities.</p>
+            <p>Now take heed all ye Offendors, for He, the Lord, hath appeared to you <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> his one year 1650, &amp; your ſorrows are coming, as a Woman in travel; for ye ſhall conſume by an outward burning, for his Wrath is kindled, and who ſhall ſtand in his ſight. God is now about to change every condi<g ref="char:EOLhyphen"/>tion, that his own Object of wiſdom and power may be ſeen; <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> that all the wiſdom of the World may be daſhed, and every exaltation of the Creature diſſolved, that one man ſhould not glory over another: Where is ſtrength, where is honour, where is riches, where is pomp, where is your outward glories? They ſhall all paſs away, fade, and decline. At his appearing behold the Earth-lineſs of them ſhall burn and conſume; for God will deſtroy the beauty of them, and it ſhall paſs away as a ſcrole, and the faſhion of the World ſhall fade away: <hi>Behold, I ſend my Meſſenger, and he ſhall prepare the way before me;</hi> And the Lord whom ye ſeek ſhall ſuddenly come to his Temple by a called meſſen<g ref="char:EOLhyphen"/>ger, which is the meſſenger of the Covenant: But who this laſt meſſenger is we cannot juſtly tell, but by conjecture it is he to whom God doth firſt appear to in this great my<g ref="char:EOLhyphen"/>ſtery, whoſe deſign is firſt anſwered of God. I know who Em<g ref="char:EOLhyphen"/>baſſadors; neither can I find any lawfull calling, but they of Chriſt, and his Apoſtles; which power and diſciplying ſhall <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>g<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ily be renewed and ſet up again. Behold he com<g ref="char:EOLhyphen"/>eth againſt all you that call the proud happy, to juſtifie ini<g ref="char:EOLhyphen"/>quity, and ſet up them that tempt God<g ref="char:punc">▪</g> The Lord will
+<pb n="8" facs="tcp:43464:5"/> come <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ear all them that covet an evil covetouſneſs to their houſe, to ſet their neſt on high; but let not any think to eſcape Gods hand, or be free from this Earthquake; for as the dayes of <hi>Noah</hi> were, ſo ſhall his coming be: for as in the dayes before the floud they were eating and drinking, and giving in marriage, and his wrath ſeized upon them: and yet he cometh to his Temple; that is, to meaſure all things done contrary to his Law and Statutes. <hi>Behold,</hi> ſaith the Lord, <hi>ye have changed my Ordinances, and ſhewing of the Prieſts, and that their hands were both guilty of blond, in that they did buy and ſell, give and keep away his Church Rights;</hi> and there<g ref="char:EOLhyphen"/>fore he will ſuddenly come; firſt to reform; and then to reſtore all the breaches and deſolations of his houſe, ſaying, <hi>I will come neer you to judgment.</hi>
+            </p>
+            <p>Firſt, he will come to meaſure his Temple, as if he ſhould ſay, <hi>My people are ye afflicted; my poor Remnant let not your hearts be troubled, believe in me, and all things are poſſible for me to reduce and reſtore all again; for I will make</hi> Jeruſalem <hi>a cup of trembling to all thine enemies round about thee, ſaying, City, houſe, partition, walls, are ye broke down; behold, I will repair all your breaches, for the Churches ſhall all come bending to your Church.</hi>
+            </p>
+            <p>Beloved, God-will bring back all her ſpiritual declinings, and will recover the ancient work of his Temple, in the ſight of all the remnant of his people: the ungodly ſhall ſee it too, and all the Heathen that be left ſhall behold the great works of God <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lone in the earth; for he cometh, and <hi>Judah</hi> is his Tribe, and he ſhall gather the people: who is he that will engage himſelf for this cauſe of God, to act in this new work of Righteouſneſs? Come ye ſimple-hearted of the Lord, now ingage your ſelves, your eſtates, your ſubſtance, to bring on this lively work of reſtoring Gods houſe; that his latter Temple may be more glorious then all the former. Away with your pride, it is God himſelf
+<pb n="9" facs="tcp:43464:5"/> that ſhall be exalted in your downfal: I beſeech you preach no more Chriſt upon the Croſſe; but boldly bear up his Crown for an Enſign to all the people; for he is riſen, and behold he is coming, and will be as a Refiners fire to try your ſpirits, to bring you off your own rugged bottomes; you that are ſo grounded on every Church-way, and yet ignorant of that true way called <hi>Pathmus,</hi> which is the foundation of Gods Temple, and that is to unbowel your ſelves of all inward conſpiracies: Cleanſe your hearts ye double minded; it is not an outward giving up, that can make you inwardly happy: neither will it be an inward, without the outward, that can fully adorn your profeſſi<g ref="char:EOLhyphen"/>on: if ye will be Chriſts Diſciples ye muſt fully give up and reſign up ſoul and body, ſtate and ſubſtance, and then ye ſhall be meet for his Kingdom; otherwiſe ye cannot ef<g ref="char:EOLhyphen"/>fectually lay this Temple foundation. One will be ready to ſay, <hi>I have married a wife.</hi> Another may ſay, <hi>I must go try a yoak of Oxen.</hi> A third may mournfully ſay with the Young<g ref="char:EOLhyphen"/>man in the Goſpel, <hi>I have great poſſeſſions, and ſhall I give all up:</hi> and this will be a tryal of thy patience and conſtancy to Chriſt; for he will have all before thou canſt be a buil<g ref="char:EOLhyphen"/>der in this new Work. Thou muſt go out of all, and make Chriſt thy free-hold, and Him thy impropriation, and lay down thy worldly honour at his feet; for he is coming, and will diſcover all thine hypocriſie, to prove who is good ſil<g ref="char:EOLhyphen"/>ver: and if thou doſt not wholly give up to Chriſt, look to it, for his refining light will find thee but as reprobate coin, and very foul, for this will be the true Church whereunto every one ſhall give up. For other Churches I know none, nor any thing after the fleſh: your Churches are full of mixture and inconſtancy, and ſubject to differ in the Ori<g ref="char:EOLhyphen"/>ginal, and ſhall lie under a beaſtly power, after the courſe of the Gentiles, not yet come out from the people; but lie under the veil, not yet ſeeing that glorious liberty and ful<g ref="char:EOLhyphen"/>neſſe
+<pb n="10" facs="tcp:43464:6"/> which doth now ſhine forth: your Churches he hid under the aſhes of the World; come out of her bands, c<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſt out the bondwoman, and her ſon, that freedom may be in your borders; that ye may throw up all, and act in this new World: it would be a rare thing to ſee but one faith<g ref="char:EOLhyphen"/>ful Reſtorer of his Temple. I have looked on every ſide, and cannot ſee one royal in this thing: if they have out<g ref="char:EOLhyphen"/>ward, yet not ſo in the inward: I ſee many putting out their heads beholding this Work, and fain would go on with it, but not able, by reaſon of ſlaviſh fear, and needleſſe doubtings take off their edge, and damp their ſpirits, as if one ſhould ſay, I <hi>would give up all, but my wife is not willing.</hi> Another may ſay, <hi>Should I do it of my ſelf.</hi> A third may ſay, <hi>I would fain ſee others begin.</hi> And thus we ſtand gazing one upon another, not worthy to be accounted his Diſciples: We have many men-pleaſers (at this day) which makes the World go ſo and ſo, little reſtoring light, otherwiſe provided it need not be ſo; but while plain <hi>Paul</hi> preached general Doctrine to the unreformed Jewes and Phariſees, they were pleaſed in that way of Teaching: It was rela<g ref="char:EOLhyphen"/>ted by ſome of them, <hi>They could have plucked out their eyes to have done him good:</hi> But when he ſtood up for a primitive power, which was that diſciplying Church according to our Saviours appointment; this being too good a doctrine for them to follow, and could not endure ſo righteous an act; and therefore they railed on him, and cauſed him to complain, ſaying; <hi>To did run well, who did hinder you that ye did not obey the truth? I am jealous over you with a godly jealouſie:</hi> I <hi>have eſpouſed you to one husband, that I might preſent you as a choice Virgin to Chriſt; but I fear, as the Serpent beguilded</hi> Eve <hi>by his ſubtilty, ſo your minds may be cor<g ref="char:EOLhyphen"/>rupted from the ſincerity of Chriſt, and ſo throw off your confi<g ref="char:EOLhyphen"/>dence in God; But take heed all you unjuſt perſons, for I will come neer ye, ſaith the Lord, and will judge all your ungodlineſs: I will
+<pb n="11" facs="tcp:43464:6"/> purge your Camps, and your Ordinances too, and will ſearch ye out in every condition: behold, I will do a new thing in the earth, that all the deſpiſers may wonder at God; and behold his coming here is an indictment to you all both high and low, to prepare the way of the Lord, and to ſee him coming: behold, he cometh with clouds of Witneſſes, and they that have pierced him, ſhall wail and weep before him; for I will be a ſwift Witneſs againſt you, and will try you as gold and ſilver is tryed, that ye may bring a pure offering in righteouſneſs:</hi> And the Lord complaineth in divers places of the Scripture, ſaying; <hi>Ye bring unto me vain obligations, and ye have changed my ordinances, and trod down my ſanctuary, and made ordinances to your ſelves, but my houſe lies deſolate, and not one Reſtorer of my Temple; but every man goes on in a broken Church-way, and your foundation ſhall all be ſcattered, and you ſhall lay hold on him that is a Jew, ſaying; We will go with thee;</hi> and that muſt be your calling, <hi>Eſay</hi> 55.4. <hi>Behold, I have given him for a Leader, and a Commander, to the people:</hi> Then fol<g ref="char:EOLhyphen"/>low your Leader, for <hi>Judah</hi> ſhall ſhall gather the people; Chriſt Jeſus will have you all come into his own Tribe <hi>Judah,</hi> for he cometh, and who may abide his appearing: if he come on a white horſe, who can behold his brightneſs? if he come on a red horſe, who ſhall ſtay his hand from bloud? or when he cometh on a pale horſe, who ſhall keep Death from their Windows? I deſire and beſeech you to lay to heart all his appearances, and move your ſelves to mourn with your Families; and every family apart, look<g ref="char:EOLhyphen"/>ing to the Center, ſaying to one another; <hi>Let us go ſeek the Lord, that others may ſay, I will go alſo:</hi> Looking to ſee great inlargments of ſpiritual comfort in theſe laſt times, and that his Kingly power ſhall pierce the Clouds, and ſhine in all the dark corners of the earth, and all the Nations ſhall ſubmit to his Kingly power when it appeareth, and no creature ſhall withſtand God when he ſhall purge and pu<g ref="char:EOLhyphen"/>rifie the earth with his refining fire, when the Sun ſhall
+<pb n="12" facs="tcp:43464:7"/> loſe her light, and the <hi>Moon</hi> be turned into bloud: Then who may abide his appearing: Look to it; Watch and pray, for he will ſuddenly come to his Temple.</p>
+            <div type="part">
+               <head>The Covenant.</head>
+               <opener>
+                  <salute>Brethren and Friends,</salute>
+               </opener>
+               <p>THis is the new and laſt <hi>Covenant</hi> which the <hi>Lord Jebo<g ref="char:EOLhyphen"/>vah,</hi> the Fountain of our peace, and Well-ſpring of <hi>immortality,</hi> which he the Lord promiſed to the ſeed of <hi>Adam, Abraham, Iſaac,</hi> and <hi>Jacob,</hi> ſaying in <hi>Deut.</hi> 4.31. <hi>I will n<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t forſake thee, neither forget the Covenant of thy Fathers which <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>w<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>re to them.</hi> This <hi>Covenant</hi> is a holy tie, from and under th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> God of <hi>Iſrael,</hi> which is a feee gift to all and ſingular that be <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the inward Court, and it is an engagement to all that be of the outward houſe, or court. This is the Record of God, that three in Heaven ſhall bear the Unity, and three on Earth ſhall bear Record; <hi>the Spirit, the Word, and three perſons,</hi> which ſhall make up one Teſtimony in Unity, with one heart, and one profeſſion, which ſhall bring us all into one; and one King ſhall be King to us all, that we may dwel in the Land that he hath ſworn to <hi>Jacob</hi> his ſervant, to give it him for us; and inheritance where our fathers dwelt in, and their childrens children for ever: And in this we are Teſtators in his new <hi>Covenant,</hi> and as our Lord about his ſuffering ſaid, <hi>It is finiſhed:</hi> Even ſo muſt we finiſh our te<g ref="char:EOLhyphen"/>ſtimony to hazard our lives, ſaying; <hi>For thy ſake we are kil<g ref="char:EOLhyphen"/>led all the day long, and are accounted as ſheep for the ſlaughter:</hi> Therefore, let us and all the inhabitants of the earth come in to crown this honorable Work, to rebuild Gods houſe, as he hath ſpoken, <hi>Jer.</hi> 50.4, 5. ſaying, <hi>Iſrael and Judah ſhall come together,</hi> ſaying; <hi>Come and let us joyn our ſelves unto the
+<pb n="13" facs="tcp:43464:7"/> Lord in a perpetual Covenant that ſhall never be forgotten.</hi> And this <hi>Covenant</hi> we muſt enter into this day. A remarkable place we find in <hi>Neh.</hi> 10.28, 29. where he ſaith, <hi>All of under<g ref="char:EOLhyphen"/>ſtanding cleave to their Brethren, and their Nobles; and entred into a courſe, and into an Oath, to walk in the Law of God which was given by</hi> Moſes.</p>
+               <p>Now their Names that ſealed the <hi>Covenant,</hi> ye ſhall find from the firſt verſe to the 27. To confirm this work to our ſight more cleerly, <hi>Joſh.</hi> 24.25, 26. <hi>So</hi> Joſhua made a <hi>covenant that day, and</hi> Joſhua <hi>wrote thoſe words in a book, and took up a great ſtone, and ſet it under an Oak that was neer the Sanctuary of the Lord; and</hi> Joſhua <hi>ſaid to all the people, behold this ſtone ſhall be a Witneſs to us, for it hath heard all the words of the Lord which he ſpake unto us, and it ſhall be a Witneſs unto you, lest ye deny your God:</hi> So <hi>Joſhuah</hi> let the people depart every man to his inheritance.</p>
+            </div>
+            <div type="part">
+               <pb n="14" facs="tcp:43464:8"/>
+               <head>Our Conſent.</head>
+               <p>THis is Our grand <hi>Conſent</hi> from the Lord, and the courſe we and all the Nations muſt take to joyn and conſent all in one Diſcipled Church, to bring in all ſuch believing perſons as ſhall caſt up, or reſign up all, to ingage themſelves for this Temple-work of the Lord Chriſt Je<g ref="char:EOLhyphen"/>ſus; and all ſuch as ſhall, or can be deemed godly perſons, proving them ſo effectually, in this we are bound, by the love and mercy of God, to bring them into our Temple-work, if it be their deſire; and the perſon or perſons being thus qualified with divine Grace, meet for ſo high an Of<g ref="char:EOLhyphen"/>fice thereunto, we ought with care and expedition to re<g ref="char:EOLhyphen"/>ceive and diſciple them, <hi>in the Name of the Father, Son, and Holy Ghoſt,</hi> ſaying; <hi>We incorporate thee into the boſome of Chriſts Church.</hi>
+               </p>
+               <p>
+                  <hi>I ingage my ſelf, for better or for worſe, to all eſtates to crown the Work with one heart, and one conſent; that God may be glo<g ref="char:EOLhyphen"/>rified in his testimony, and raiſe his Temple in the height and rage of the Worlds cruelty; and thereunto I preſent my ſelf, as a ſacrifice unto the holy Altar of God.</hi>
+               </p>
+               <p>Whether man or woman being thus cenſured by twelve of your Diſciples, in what Pariſh or place ſoever, both we and they ought, and muſt receive, and bring in all ſuch per<g ref="char:EOLhyphen"/>ſons being worthy.</p>
+               <p>Laying all their hands upon him, ſaying; <hi>We give thee the
+<pb n="15" facs="tcp:43464:8"/> right hand of fellowſhip in the Lord for an everlaſting <g ref="char:V">Ʋ</g>nion of a joynt conſent in brotherhood.</hi> And this is our Virgin Church Jueſtical, Divinal, and Apoſtolical. And this is to fulfil the Viſion of all the Prophets.</p>
+            </div>
+            <div type="part">
+               <head>His Office.</head>
+               <p>THe Ground-work of a Chriſtian Diſciple, ought to be exemplary from Chriſt to the People, to walk in all ſingleneſſe of life before whom he is to do, or to ſpeak unto: and lying dead to the World, buried with the Lord in Covenant, called Baptiſm; and being principled with his divine grace from above, is a ſhewing forth his authori<g ref="char:EOLhyphen"/>ty from God, being pure and upright in his place, and not to be a favourite to the World, having neither coat nor cloak to hide it; but freely to ſay, <hi>Wealth get thee home, I will tread thee under foot as dung, to follow my Saviour, in his ex<g ref="char:EOLhyphen"/>ample of humility and poverty, and to ſpit upon pride, and vomit up greatneſſe.</hi> A miniſterial Diſciple ought to make the Lord his ſtaff, and not the World too; for that is a truſting upon two ſtaves, as God and Mammon. In a word, the Prieſts of the Lord ought to bring their Offerings; firſt, pure; and then in a clean veſſel, to ſhew themſelves Leaders of the people. <hi>Learn of me, ſaith Chriſt, for I am meek and hum<g ref="char:EOLhyphen"/>ble:</hi> So ought every Paſtour to move the people by his harmleſs converſation, being free from all the degrees of ſcandal, worſhipping God in the top of the Mountains, gi<g ref="char:EOLhyphen"/>ving him the higheſt place in his thoughts, and greateſt
+<pb n="16" facs="tcp:43464:9"/> honour above all things, having his converſation free from covetouſneſs: let it not once be named amongſt you the Prieſts of <hi>God,</hi> but to ſhew them the true conſolation of a pure life, and the honourable everlaſting joy; ſhewing them a holy example, as a pattern to walk by: The Diſci<g ref="char:EOLhyphen"/>plers of GOD ought to be precious Seers to incovenant their people, and to be able Paſtors for this great Work, to diſciple, and bring in all ſuch as are meet for the Kingdom: And under the Diſcipler,' or twelve other Diſciples, ſhall all Church-Truths be eſtabliſhed, for bringing in, and in<g ref="char:EOLhyphen"/>corporating all ſuch members me<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t for a <hi>Brotherhood,</hi> to be congregated and received into his inward Court, or Tem<g ref="char:EOLhyphen"/>ple: The Prophets ought to be men of ſingularity, walk<g ref="char:EOLhyphen"/>ing unſpotted, blameleſſe, holding out the Truth for the Lords ſake: The Paſtor ought to magnifie his Office; that is, to walk correſpondent to the Lord in all livelyhood of vertue, and amiableneſs; free from acceſs and all worldly cogitations, as it becometh the Prieſts or Miniſters of <hi>God;</hi> and to forbear no fleſh, for any favour or affection; but to render unto them the Truth, that <hi>Jacob</hi> and <hi>Judah</hi> may know their tranſgreſſions, and fear not men, who can kill but the body, whoſe breath is in their noſtrils; but cry a<g ref="char:EOLhyphen"/>loud, ſpare them not: And our Lord ſaith, <hi>What I tell ye in darkneſs, that preach ye in the light; and what you hear in the Ear, that preach ye on the houſe top; and as you go preach the Kingdom.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <pb n="17" facs="tcp:43464:9"/>
+               <head>His Calling, and Authority; and new Name DENUS.</head>
+               <p>THis is my Teſtimony; In the Year 1646. the holy God did wonderfully move me by Vi<g ref="char:EOLhyphen"/>ſion and Revelation; and by his Spirit did ſhadow out to me the Jewes Calling and Profeſſion, ſo ur<g ref="char:EOLhyphen"/>gent, that I was not able to withſtand, both by a Dream, and outward and inward perſwaſion, ſo ſtrong upon my affection, that my conſcience pro<g ref="char:EOLhyphen"/>miſed to God, by a ſolemn mort, entring into a new Covenant with God, to come out from the peopl<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, and from all the ſcattered flockes, and to build upon a true foundation, which is, and ſhall be the true Church; which, unto it, I find my ſelf truly and re<g ref="char:EOLhyphen"/>ally called, which is a teſtimony of Gods ſhining beauty and ſaving light; and in that I know my Calling to be warrantable and lawful, to declare and make known the myſtery of life; and not to hide my Talent, but to make known the precious things my God hath ſhewed to me.</p>
+               <pb n="18" facs="tcp:43464:10"/>
+               <p>Therefore be it known to all, that my Authority is not Earthly but an Heavenly Authority, and cal<g ref="char:EOLhyphen"/>led out from the people to a precious life, conſent<g ref="char:EOLhyphen"/>ing to a pure Language, Zeph. 3.9.</p>
+               <p>And in this new Work my Conſcience beareth me witneſs, I ſpeak the truth in the Lord; for God hath given me power to plague all fleſh, making known the juſt hand of God to all.</p>
+               <p>Further, the God of Heaven hath authorized me to ſpeak and declare of all the hideous Cries and Enormities of the Times, which lie buryed in coni<g ref="char:EOLhyphen"/>vencie, by flattery; carrying the Work fair away, though foul in effect; And our Diviners heal it over with Balſam; ſeeing, and will not ſearch out the cauſe, and lay violent hands upon all ſuch un<g ref="char:EOLhyphen"/>reaſonable men, which do not uphold the Creation; but carry on the World by a beaſtly, power, which hindereth a generall freedom to all the Creatures, and cauſeth ſome to pine away; and others, too much fat, eating up the good paſture, and treading down the reſt with their feet, having abundance of outward wealth, riding on the back of it. This is a ſore evil, and yet covered over by our Diviners, which keepeth back the new Work of reſtauration, and cauſe the poor of the Creatures to mourn, and much to groan, for a manifeſtation of an outward
+<pb n="19" facs="tcp:43464:10"/> and inward fulneſs. And for this, and divers other good cauſes, the holy God hath moved me to ſpeak, and declare of, and to give light to the World, that the leading in captivity may no more be.</p>
+            </div>
+            <div type="part">
+               <head>The Oracles of God.</head>
+               <p>HErein is compriſed and contained the wor<g ref="char:EOLhyphen"/>ſhip of God; and ye ought not to ſlight his firſt teſtimony, which is the Ten Commandements, to ſhew, That mens Ordinances ſhall be deſtroyed by the ſeventh Violl of Gods wrath; lying under this Ten-fold Curſe of Gods Law: And it ſhall plague all the Ordinances of men, in that it ſhall make inquiſition for bloud. This ten-ſtringed in<g ref="char:EOLhyphen"/>ſtrument, or Law of God, was not utterly deſtroy<g ref="char:EOLhyphen"/>ed or aboliſhed by our Lord his appearing; though ſome of the moral part abrogated, yet not diſanul<g ref="char:EOLhyphen"/>led, but ſtandeth in the ſame force, to command Ju<g ref="char:EOLhyphen"/>ſtice; And it is a cleer teſtimony againſt all ſuch as have trod it under-foot; as ye ſhall find Gods wor<g ref="char:EOLhyphen"/>ſhip
+<pb n="20" facs="tcp:43464:11"/> in Zach. 14.16. Every one that is left of all the Nations ſhall once a year go up to keep the feaſt of Tabernacles, Year by Year, and to worſhip the Lord of Hoſts.</p>
+               <p>In theſe words we find two high Ordinances, that ſhall ſtand, when every Ordinance ſhall have an end: theſe are two Tabernacles;</p>
+               <p>The firſt appeared as his own teſtimony to Mo<g ref="char:EOLhyphen"/>ſes, which was his firſt Tabernacle in thoſe times, or a teſtimony to all, which is the Ten Commande<g ref="char:EOLhyphen"/>ments upon Record, which is an undeniable truth; And whoſoever addeth or diminiſheth, or breaketh any of thoſe Ten Commandements, is guilty of breaking the whole Law of God.</p>
+               <p>This Law was perfected by our Lord when he appeared in fleſh; He changed it from Mount Sinai to Mount Sion; and ſo it ſtands in full power over all your offences till this day: Though the moral part of it may fail, yet the morality of it ſhall endure to the end; which at Chriſts appearing, then both the Tabernacles met, which was the Law and Go<g ref="char:EOLhyphen"/>ſpel, the Old and New Teſtimonies, called Mount Sion, under him: And once a Year we muſt all appear before him for an Offering, of the Tythes of our ſubſtance, and ſo receive the Sacrament: Ye
+<pb n="21" facs="tcp:43464:11"/> ſhall keep my Feaſt of Tabernacles: Ye ſee, in part, what the Law of God is, Exod. 20.6. The Lord promiſeth mercy to all them that keep his Com<g ref="char:EOLhyphen"/>mandements.</p>
+               <p>Now it were good if we could walk ſo as to obey him; And good David ſaith; Teares guſh from mine eyes, becauſe men keep not thy Law: And ſo long as we walk contrary to that Rule, we lie in<g ref="char:EOLhyphen"/>volved under the Curſe.</p>
+               <p>And in truth I cannot find, but all ſorts lie under this Curſe, until they come out from the people, to walk correſpondent to this well-ſtringed inſtru<g ref="char:EOLhyphen"/>ment, which is the Law of God, and his Ten Com<g ref="char:EOLhyphen"/>mandements, having food and rayment ſo to poſſeſs your Veſſels in honour: And an honourable thing it is, ſo to know God; for otherwiſe we cannot know him right: For Covetouſneſs is Idolatry and Theft, which is a breach of all thoſe Ten Comman<g ref="char:EOLhyphen"/>dements: And the Apoſtle faith, Let not covetouſ<g ref="char:EOLhyphen"/>neſs once be named amongſt you. Neither is it law<g ref="char:EOLhyphen"/>ful to image out any graven ſubſtance to our ſelves. The Prophet Eſay hath a paſſage, ſaying, They ſhal caſt away their Idols of Silver and Gold to the Bats and the Moles: And the Apoſtle James ſaith, Love of money, is the root of all evil.</p>
+               <pb n="22" facs="tcp:43464:12"/>
+               <p>And ſo it is to cloath our ſelves with others Gar<g ref="char:EOLhyphen"/>ments, which is but uſurped gain; for God will curſe and conſume every unjuſt act, by his ſeventh Violl of wrath; and judgment ſhall take hold on every Oppreſſor. How dare you break his Commande<g ref="char:EOLhyphen"/>ments? Take but a ſpiritual view, and ye ſhall ſee the time of mans ſix days travel is almoſt at an end, from the Creation; and, by way of Revelation, this is Saturdayes afternoon, which ſheweth a preparati<g ref="char:EOLhyphen"/>on for the Sabbath; And after 349, or thereupon, about 2000 before the Law; and about 2000 un<g ref="char:EOLhyphen"/>der the Law; and almoſt 2000 ſince our teſtimo<g ref="char:EOLhyphen"/>ny; and it appeareth, that the time is very ſhort. Up<g ref="char:EOLhyphen"/>on this ſeventh Viol the Conſtellations do now fail, which is the Stars, Angels, or Miniſters of your Churches, under his Sabbaths Viol; and that is by a pure light that ſhall ſhine and ſhew them their Ido<g ref="char:EOLhyphen"/>latry, which will ſlay them either by ſhame or grief, to ſee their condition changed; which ſhall be a cleer diſcovery of the precious from the vile, Mal. 3. A book of remembrance ſhall be opened, and God will bring an implacable curſe upon all covetous perſons, that have clothed themſelves with that which is not their own: They muſt either give up and reſtore, or elſe lie under the hand of Gods jea<g ref="char:EOLhyphen"/>louſie
+<pb n="23" facs="tcp:43464:12"/> and wrath by a ſpiritual burning. Take heed, Gods Judgments are now among us, and will try all our actions, Hoſea 4.3. The Land mourneth, and the people languiſh. And verſ. 2. Bloud toucheth bloud, and what not; but all cruelty is uſed, which is a breach of all theſe Ten Commandements, Deut. 28. If thou wilt not hearken to the voyce of the Lord thy God, to obſerve all that I command thee this day, then all theſe curſes ſhall come upon thee. We be like the people in MOSES his time, to put off the commands of God, as the people ſaid; <hi>Speak thou with us; but let not God ſpeak, lest we die.</hi>
+               </p>
+               <p>But MOSES anſwered them ſaying;
+<q>God is come to prove y<gap reason="illegible" resp="#MURP" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>.</q>
+               </p>
+               <p>And they were afraid, and drew back: So that when God cometh home to mens conſciences, who ſhall abide his wrath?</p>
+               <p>I ſee an appearance; fire, and ſpiritual fire, vapours, and darkneſs over the Earth: I declare the ſeven Eyes upon Joſhua's ſtone, crying, Grace, grace unto it: I go forth by a Viſion under the ſeven great Seales of the little Book, now opened and manifeſted by
+<pb n="24" facs="tcp:43464:13"/> the Lord his bright appearing. And in this Year, 1650. Judgment ſhall appear: The Angel moveth upon the waters, which ſhal change them into bloud, and hell ſhall move in the conſciences of men, lying under the wrath of God, and cenſure of men, which ſhall cauſe them to cry out, ſaying; We are undone, ſorrows are upon us; our power is eclipſed; the ſcale is turned, and we be found too light. Hence it is in the Year, 1652. that Freedom ſhall come and appear.</p>
+               <p>The dead man is now upon his feet; which ſhall be manifeſted by his next Book, called his third Appearance; The Earth ſhall not ſtoop to the proud Waters, the Angel moveth, the Waters under the earth are troubled, the Unicorn hath dipt in his horn, the Lyon ſhall withſtand the Dra<g ref="char:EOLhyphen"/>gon, the firſt Dominion ſhall revive, and the Scepter continue.</p>
+            </div>
+            <div type="poem">
+               <pb facs="tcp:43464:13"/>
+               <head>His Requiem.</head>
+               <l>MY eyes deſire much to ſee,</l>
+               <l>
+                  <hi>Jeruſalem</hi> that is moſt free;</l>
+               <l>That I in righteouſneſs may ſing</l>
+               <l>With truth and honour there to bring.</l>
+               <l>I am a ſtranger in this World,</l>
+               <l>And truth I am a Pilgrim poor:</l>
+               <l>I mourn and ſorrow for to ſee</l>
+               <l>The want of Chriſtianity.</l>
+               <l>My hearts deſire is ſo bent,</l>
+               <l>That I can have no true content;</l>
+               <l>Until I ſee Jew eminent,</l>
+               <l>Oh faireſt of all myſtery!</l>
+               <l>The Queen of <hi>Sheba</hi> ſought the King,</l>
+               <l>Declaring <hi>Honour</hi> for to bring:</l>
+               <l>With much deſire ſhe did enquire</l>
+               <l>To ſee the glory of the King.</l>
+               <l>My watered eyes with mournful teares,</l>
+               <l>Of diſcontent and ſorrow ſeen:</l>
+               <l>Oh when ſhall I; Oh when ſhall I,</l>
+               <l>Obtain an end of myſtery.</l>
+               <l>All Earthly freedom I deny,</l>
+               <l>Until I ſee a full ſupply</l>
+               <pb facs="tcp:43464:14"/>
+               <l>Of Jew and Gentiles miſery,</l>
+               <l>With end of all captivity.</l>
+               <l>The Gentiles breaſt ſhall bring ſucceſs</l>
+               <l>Unto the Jew that ſhall poſſeſs;</l>
+               <l>Much <hi>glory, honour,</hi> and <hi>renown,</hi>
+               </l>
+               <l>With bliſſe and comfort to redoun.</l>
+               <l>Oh wiſh to be of inward Court,</l>
+               <l>To know the ſecrets of his Will;</l>
+               <l>To judge the World with equity,</l>
+               <l>And to deſtroy all enmity.</l>
+               <l>
+                  <hi>DEN<g ref="char:V">Ʋ</g>S,</hi> that I am, is my name,</l>
+               <l>Sent of the <hi>Lord</hi> to ſhew the ſame,</l>
+               <l>The bleſſed way of <hi>Jeruſalem,</hi>
+               </l>
+               <l>And to ſtand up till fulneſs come.</l>
+               <l>
+                  <hi>Jeruſalem</hi> I come to thee.</l>
+               <l>And ſhall behold <hi>Mount-ſcalvery:</hi>
+               </l>
+               <l>Oh when ſhall I be brought on high,</l>
+               <l>To view the Temple of the Lord:</l>
+               <l>Incline thine ear and come to me,</l>
+               <l>And thou ſhalt have a name moſt high;</l>
+               <l>More cleerer then the Stars ſo bright,</l>
+               <l>Which are impure in his ſight:</l>
+               <l>Nations ſhall joyn unto the <hi>Lord,</hi>
+               </l>
+               <l>And come all to one Unity;</l>
+               <l>And they of <hi>Lebanon</hi> ſhall come,</l>
+               <l>To worſhip in his <hi>Holy Hill.</hi>
+               </l>
+               <l>The power of <hi>Babylon</hi> ſhall fall,</l>
+               <l>All Nations ſhall abhor the ſame:</l>
+               <l>Her furniture and ſtrength ſecure,</l>
+               <l>Shall fall unto the nether ground.</l>
+               <l>The <hi>Lord</hi> ſhall utterly deſtroy</l>
+               <l>
+                  <hi>Egyptian</hi> Sea that is ſo ſtout;</l>
+               <l>
+                  <hi>Euphrates</hi> ſtreames all ſeven ſtruck,</l>
+               <l>And into Waters bloud convert;</l>
+               <pb n="27" facs="tcp:43464:14"/>
+               <l>Yea, as a fire in <hi>Jacob</hi> ſhall</l>
+               <l>Deſtroy their power great and ſmall,</l>
+               <l>To bring down pride</l>
+               <l>That on doth ride,</l>
+               <l>And level'd be</l>
+               <l>A plain to ſee.</l>
+               <l>The holy City underfoot</l>
+               <l>Hath been trod down by wicked root;</l>
+               <l>But now ſhall ſtand on feet ſo ſtrong,</l>
+               <l>Free from their cruelty and wrong.</l>
+               <l>I am a meſſenger call'd and ſent</l>
+               <l>Unto the place of preſident,</l>
+               <l>To ſhew the honour of the King,</l>
+               <l>And ſtate of glory for to bring.</l>
+               <l>Oh <hi>Iſrael</hi> moſt ſweet to thee,</l>
+               <l>A State to be;</l>
+               <l>Moſt excellent when I ſhall ſee,</l>
+               <l>Moſt viſibly,</l>
+               <l>And <hi>Judah's</hi> land for to behold.</l>
+               <l>To be ſubſtantial is moſt rare,</l>
+               <l>A Royaliſt thou ſhalt appear;</l>
+               <l>Minority it uſed to be</l>
+               <l>Subject to all inconſtancie.</l>
+               <l>I am a Witneſs ſent to plague,</l>
+               <l>The Earth's proud water into bloud<g ref="char:punc">▪</g>
+               </l>
+               <l>Witneſſes two, called by no mo,</l>
+               <l>
+                  <hi>Judah</hi> and <hi>Iſrael</hi> is my name.</l>
+               <l>The Red-Roſe and the white ſo fair,</l>
+               <l>In ſplendor they be both moſt rare;</l>
+               <l>Brought into one, one and the ſame,</l>
+               <l>
+                  <hi>Judah</hi> and <hi>Iſrael</hi> is my name,</l>
+               <l>I am an <hi>Iſrael</hi> of the Tribes,</l>
+               <l>Which have been ſcatter'd and dry'd<g ref="char:punc">▪</g>
+               </l>
+               <pb n="28" facs="tcp:43464:15"/>
+               <l>Called the dry bones of <hi>Iſrael,</hi>
+               </l>
+               <l>Or her dry ſticks in <hi>Ezekiel.</hi>
+               </l>
+               <l>Vertue is a precious thing,</l>
+               <l>It doth adorn the ſoul within:</l>
+               <l>By honour, glory, and reſpect,</l>
+               <l>Thy perſon pure it ſhall be deckt.</l>
+               <l>I am a Jew I do confeſs,</l>
+               <l>Which lately was a Gentile born;</l>
+               <l>Free from mixture, and from wrath,</l>
+               <l>Yea I am called from the <hi>North.</hi>
+               </l>
+               <l>Ye bright ſhinings of the <hi>North,</hi>
+               </l>
+               <l>Our forces they ſhall come with you;</l>
+               <l>The forces of the Gentiles ſhall</l>
+               <l>Deſtroy and utterly expel:</l>
+               <l>Their hearts ſhall fume,</l>
+               <l>And fleſh conſume,</l>
+               <l>To ſee the State</l>
+               <l>Unfortunate.</l>
+               <l>Like as a Fountain</l>
+               <l>We ſhall ſpring,</l>
+               <l>Sweet as a River</l>
+               <l>Doth come in,</l>
+               <l>The ſeven ſtreames</l>
+               <l>Shal loſe their beames,</l>
+               <l>And eke their power</l>
+               <l>Shall decay.</l>
+               <l>Time is precious</l>
+               <l>To redeem,</l>
+               <l>An end ſhall be</l>
+               <l>To myſtery:</l>
+               <l>When Viſions ceaſe, none end poſſeſſe</l>
+               <l>It's beauty in perfection.</l>
+               <l>Ten men from all the Nation ſhall</l>
+               <l>take hold of him that is a Jew:</l>
+               <pb n="29" facs="tcp:43464:15"/>
+               <l>Alas alſo for I muſt go,</l>
+               <l>Yea I am called to the ſame;</l>
+               <l>And I ſhall have no true content,</l>
+               <l>Untill I ſee his Monument:</l>
+               <l>To end all this that I may tell</l>
+               <l>That peace in <hi>Iſrael</hi> Shall excel.</l>
+               <l>For ſaith the Lord of Hoſts to me,</l>
+               <l>Send out the glory Speedily:</l>
+               <l>To bring them all Into his fold,</l>
+               <l>Which is moſt precious to behold.</l>
+               <l>I ſhall now the promiſed land of right in heires,</l>
+               <l>The <hi>Tribes</hi> among inheritance Fore-loſt ſo long</l>
+               <l>Shall now be called back again.</l>
+               <l>It is not honour to eſteem,</l>
+               <l>Nor Earthly treaſure can redeem:</l>
+               <l>Vertue is a thing moſt precious, to</l>
+               <l>Bring to beautifie his houſe alſo:</l>
+               <l>Though former things be paſſed ſo rare,</l>
+               <l>Yet new things do I declare:</l>
+               <l>Before the Spring I'le tell you of them;</l>
+               <l>Oh ſee, O ſee, ye Sons of men.</l>
+               <l>Hideous things to me were known,</l>
+               <l>Something more then three years agone:</l>
+               <l>One thouſand ſix hundred forty and ſix,</l>
+               <l>For then in me this thing was fixt.</l>
+               <pb n="30" facs="tcp:43464:16"/>
+               <l>Then doth ſtand up a Royal.</l>
+               <l>To vindicate in miſtery,</l>
+               <l>That ſhall redreſe and bloud ſuppreſs</l>
+               <l>The riſe and fall of Nobles all.</l>
+               <l>A viſible Kingdom did appear,</l>
+               <l>One thouſand ſix hundred and fifty year;</l>
+               <l>And this appearance will never ceaſe,</l>
+               <l>Until his Church do find true reſt,</l>
+               <l>To glory over <hi>Babylon,</hi>
+               </l>
+               <l>And eke reſtore for to enjoy:</l>
+               <l>To keep the Feaſt of Tabernacles</l>
+               <l>Once a year I muſt appear:</l>
+               <l>To end all this, that we may tell,</l>
+               <l>That peace in <hi>Iſrael</hi> ſhall excel:</l>
+               <l>It is not ſilver that I deem,</l>
+               <l>Nor Gold ſo precious in the eſteem.</l>
+               <l>
+                  <hi>Venus</hi> fair is not ſo rare;</l>
+               <l>It cannot ſatisfie deſire:</l>
+               <l>For I muſt go,</l>
+               <l>Yea I muſt frame,</l>
+               <l>To <hi>Sion</hi>'s Court</l>
+               <l>To prove the ſame.</l>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:43464:16"/>
+         </div>
+      </body>
+   </text>
+</TEI>
